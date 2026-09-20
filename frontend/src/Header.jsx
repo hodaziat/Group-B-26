@@ -6,6 +6,9 @@ const Header = () => {
          <div><h1> welcome to group B 26 react platform</h1></div>
         <div> <h1 style={{color:"red"}} > Teacher Name : Ahmad </h1></div>
         <div> <h1 style={{color:"blue"}}> Student Name : Zaid </h1></div>
+        <div> <h1 style={{color:"green"}}> Student Name : Asaad </h1></div>
+        
+        
     </>
   )
 }
